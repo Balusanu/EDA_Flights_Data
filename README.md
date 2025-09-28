@@ -31,5 +31,3 @@ In this project, I performed **Exploratory Data Analysis (EDA)** on the **Flight
 * **July & August of 1960** recorded the **maximum passengers overall**.
 
 
-👉 Would you like me to also prepare a **GitHub-friendly README with proper code snippets** (loading data, plots, calculations) so that recruiters/collaborators can directly see the workflow?
-
